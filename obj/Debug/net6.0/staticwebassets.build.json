@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "GSduaswLnJRlupmLBEmKkoNW5LZ6O0kcs6RQOJG5wF0=",
+  "Source": "SalamanderBlazor",
+  "BasePath": "_content/SalamanderBlazor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SalamanderBlazor\\wwwroot",
+      "Source": "SalamanderBlazor",
+      "ContentRoot": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\wwwroot\\",
+      "BasePath": "_content/SalamanderBlazor",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SalamanderBlazor.styles.css",
+      "SourceId": "SalamanderBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/SalamanderBlazor",
+      "RelativePath": "SalamanderBlazor.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SalamanderBlazor.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SalamanderBlazor.bundle.scp.css",
+      "SourceId": "SalamanderBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/SalamanderBlazor",
+      "RelativePath": "SalamanderBlazor.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SalamanderBlazor.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\wwwroot\\background.png",
+      "SourceId": "SalamanderBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\wwwroot\\",
+      "BasePath": "_content/SalamanderBlazor",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "SalamanderBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\wwwroot\\",
+      "BasePath": "_content/SalamanderBlazor",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

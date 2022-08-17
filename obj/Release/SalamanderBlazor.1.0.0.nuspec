@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SalamanderBlazor</id>
+    <version>1.0.0</version>
+    <authors>SalamanderBlazor</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.AspNetCore.Components.Web" version="6.0.8" exclude="Build,Analyzers" />
+        <dependency id="MudBlazor" version="6.0.14" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/nuget.config" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\bin\Release\net6.0\SalamanderBlazor.dll" target="lib\net6.0\SalamanderBlazor.dll" />
+    <file src="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\obj\Release\net6.0\staticwebassets\msbuild.SalamanderBlazor.Microsoft.AspNetCore.StaticWebAssets.props" target="build\Microsoft.AspNetCore.StaticWebAssets.props" />
+    <file src="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\obj\Release\net6.0\staticwebassets\msbuild.build.SalamanderBlazor.props" target="build\SalamanderBlazor.props" />
+    <file src="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.SalamanderBlazor.props" target="buildMultiTargeting\SalamanderBlazor.props" />
+    <file src="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.SalamanderBlazor.props" target="buildTransitive\SalamanderBlazor.props" />
+    <file src="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\obj\Release\net6.0\scopedcss\projectbundle\SalamanderBlazor.bundle.scp.css" target="staticwebassets\SalamanderBlazor.bundle.scp.css" />
+    <file src="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\wwwroot\background.png" target="staticwebassets\background.png" />
+    <file src="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\wwwroot\exampleJsInterop.js" target="staticwebassets\exampleJsInterop.js" />
+    <file src="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\nuget.config" target="content\nuget.config" />
+    <file src="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\nuget.config" target="contentFiles\any\net6.0\nuget.config" />
+  </files>
+</package>

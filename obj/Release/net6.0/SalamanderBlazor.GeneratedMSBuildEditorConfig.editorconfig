@@ -1,0 +1,24 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = SalamanderBlazor
+build_property.RootNamespace = SalamanderBlazor
+build_property.ProjectDir = C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/jonmg/projects/.net projets/Nuget/SalamanderBlazor/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jonmg/projects/.net projets/Nuget/SalamanderBlazor/Salamander.razor]
+build_metadata.AdditionalFiles.TargetPath = U2FsYW1hbmRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-wic9asl9rn
