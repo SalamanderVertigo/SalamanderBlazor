@@ -4,6 +4,11 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <Title>Salamander Blazor</Title>
+    <Company>Jon Gucciardi</Company>
+    <Description>testing Razor Library </Description>
+    <PackageProjectUrl>https://github.com/SalamanderVertigo/SalamanderBlazor</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/SalamanderVertigo/SalamanderBlazor</RepositoryUrl>
   </PropertyGroup>
 
 

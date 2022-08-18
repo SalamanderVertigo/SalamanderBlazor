@@ -3,8 +3,11 @@
   <metadata>
     <id>SalamanderBlazor</id>
     <version>1.0.0</version>
+    <title>Salamander Blazor</title>
     <authors>SalamanderBlazor</authors>
-    <description>Package Description</description>
+    <projectUrl>https://github.com/SalamanderVertigo/SalamanderBlazor</projectUrl>
+    <description>testing Razor Library</description>
+    <repository url="https://github.com/SalamanderVertigo/SalamanderBlazor" />
     <dependencies>
       <group targetFramework="net6.0">
         <dependency id="Microsoft.AspNetCore.Components.Web" version="6.0.8" exclude="Build,Analyzers" />
@@ -12,7 +15,7 @@
       </group>
     </dependencies>
     <contentFiles>
-      <files include="any/net6.0/nuget.config" buildAction="Content" />
+      <files include="any/net6.0/NuGet.Config" buildAction="Content" />
     </contentFiles>
   </metadata>
   <files>
@@ -24,7 +27,7 @@
     <file src="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\obj\Release\net6.0\scopedcss\projectbundle\SalamanderBlazor.bundle.scp.css" target="staticwebassets\SalamanderBlazor.bundle.scp.css" />
     <file src="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\wwwroot\background.png" target="staticwebassets\background.png" />
     <file src="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\wwwroot\exampleJsInterop.js" target="staticwebassets\exampleJsInterop.js" />
-    <file src="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\nuget.config" target="content\nuget.config" />
-    <file src="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\nuget.config" target="contentFiles\any\net6.0\nuget.config" />
+    <file src="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\NuGet.Config" target="content\NuGet.Config" />
+    <file src="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\NuGet.Config" target="contentFiles\any\net6.0\NuGet.Config" />
   </files>
 </package>
